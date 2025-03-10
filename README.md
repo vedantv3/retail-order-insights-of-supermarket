@@ -58,7 +58,7 @@ Ensure you have the following installed:
 
 Clone the repository:
 
-git clone https://github.com/your-repo/retail-order-insights.git
+git clone https://github.com/vedantv3/retail-order-insights-of-supermarket
 cd retail-order-insights
 
 Install required Python packages:
